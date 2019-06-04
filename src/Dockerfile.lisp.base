@@ -15,7 +15,7 @@
 ##### ################################################################
 FROM opensuse/tumbleweed
 
-MAINTAINER Renshi <yanqirenshi@gmail.com>
+MAINTAINER satoshi.iwasaki <satoshi.iwasaki@glpgs.com>
 
 
 ##### ################################################################
